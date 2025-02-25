@@ -15,4 +15,5 @@ Example: `./exclude_home_ip.sh 45.46.112.140`
 5. Installs the excludeTraffic rules
 
 Run this before `mullvad connect`
+
 Does not persist: run after reboot or if your HOME_IP changes.
